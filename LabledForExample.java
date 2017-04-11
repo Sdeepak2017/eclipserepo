@@ -1,3 +1,4 @@
+package eclipserepo;
 
 public class LabledForExample {
 	public static void main(String args[]){
